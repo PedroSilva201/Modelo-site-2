@@ -1,2 +1,2 @@
 # Modelo-site-2
-Teste do novo site, modelo simples
+Teste do novo site, modelo simples com javascript no back-end (direcionamento das rotas), html e css no front-end difernete do outro projeto que usa ejs como se fosse o html, tambem segundo o mesmo escopo de criar um site de noticias, ainda em fase de elaboração para estudo do modelo mais viavel que deve ser feito nas próximas semanas...
